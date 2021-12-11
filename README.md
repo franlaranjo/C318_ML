@@ -8,7 +8,7 @@
 ## 💻 Sobre
 
 - Projeto de ML - Inatel C318
-- Orientação: Leonardo Silva de Souza (Leo18ss)
+- Orientação: Ricardo Augusto da Silva Junior
 - Equipe: Francielly Marianne Laranjo Silva(franlaranjo)
 - Linguagem de Programação: Python
 
